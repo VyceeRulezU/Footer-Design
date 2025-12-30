@@ -56,10 +56,11 @@ body {
 }
 
 .footer_section {
-  background-image: url(/image/Footer\ Section\ BG.svg);
+  background-color: var(--color-secondary-300);
+  /* background-image: url(/image/Footer\ Section\ BG.svg);
   background-position: top center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   width: 100%;
   height: auto;
   position: relative;
