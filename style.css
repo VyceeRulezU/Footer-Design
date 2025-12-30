@@ -295,6 +295,7 @@ body {
   width: auto;
   display: flex;
   flex-direction: row;
+  padding: 2.5rem 0;
 }
 
 .footer_star_img{
