@@ -779,7 +779,7 @@ body {
 .div_img img{
   position: absolute;
   bottom: -20px;
-  left: 32.5%;
+  left: 30.5%;
   transform: rotate(90deg);
   transform-origin: bottom right;
   max-width: 120%;
