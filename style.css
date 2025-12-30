@@ -58,6 +58,7 @@ body {
 .footer_section {
   background-color: var(--color-secondary-300);
   height: auto;
+  position: relative;
 }
 
 .footer_carousel{
@@ -458,6 +459,16 @@ body {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+.footer_pattern{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  z-index: 0;
 }
 
 
