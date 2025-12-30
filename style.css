@@ -56,7 +56,11 @@ body {
 }
 
 .footer_section {
-  background-color: var(--color-secondary-300);
+  background-image: url(/image/Footer\ Section\ BG.svg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
   height: auto;
   position: relative;
 }
@@ -462,7 +466,7 @@ body {
   display: block;
 }
 
-.footer_pattern{
+/* .footer_pattern{
   position: absolute;
   top: 0;
   left: 0;
@@ -470,7 +474,7 @@ body {
   height: auto;
   overflow: hidden;
   z-index: -1;
-}
+} */
 
 
 /* Responsive Design */
@@ -881,15 +885,13 @@ body {
     right: 20px;
   }
 
-  .footer_pattern{
+  /* .footer_pattern{
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: auto;
   overflow: hidden;
-  
-  
-}
+} */
 
 }
